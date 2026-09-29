@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4D8D&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Karanbir+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+%2B+FastAPI;Building+payments+%26+KYC+flows+%40+Coinup;IEEE+published+researcher+%F0%9F%93%84;Turning+ideas+into+shipped+products+%F0%9F%9A%80" alt="Typing animation" />
 </a>
 
-<br/>
-
-<!-- Visitor counter -->
-<img src="https://visitcount.itsvg.in/api?id=kbir-dev&icon=0&color=0" alt="Profile views" />
-
 <br/><br/>
 
 <!-- Social links -->
@@ -41,35 +36,41 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,py,cpp,html,css,react,vite,tailwind,nodejs,express,fastapi,mongodb,mysql,sqlite,tensorflow,sklearn,pandas,numpy,git,github,vscode&perline=7" alt="Tech stack" />
+**Languages**<br/>
+<img src="https://img.shields.io/badge/JavaScript-FF4D8D?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-FF4D8D?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-FF4D8D?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/SQL-FF4D8D?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/HTML5-FF4D8D?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-FF4D8D?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
-</div>
+**Frontend**<br/>
+<img src="https://img.shields.io/badge/React-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/Vite-8A2BE2?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/TailwindCSS-8A2BE2?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/Streamlit-8A2BE2?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 
-**Languages:** JavaScript (ES6+), Python, C++, SQL, HTML5, CSS3
-**Frontend:** React.js, Vite, TailwindCSS, Streamlit
-**Backend & APIs:** Node.js, Express.js, FastAPI, REST APIs
-**Databases:** MongoDB, MySQL, SQLite
-**AI / ML:** TensorFlow, Scikit-learn, Pandas, NumPy, NLP, Deep Learning, LLM integration (Groq)
+**Backend & Databases**<br/>
+<img src="https://img.shields.io/badge/Node.js-C2185B?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-C2185B?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/FastAPI-C2185B?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/MongoDB-C2185B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-C2185B?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-C2185B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 
----
+**AI / ML**<br/>
+<img src="https://img.shields.io/badge/TensorFlow-6A1B9A?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Scikit--learn-6A1B9A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/Pandas-6A1B9A?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-6A1B9A?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Groq%20LLM-6A1B9A?style=for-the-badge&logo=openai&logoColor=white" alt="Groq LLM" />
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/kbir-dev/Talent-Hub-Advitiya-Hackathon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kbir-dev&repo=Talent-Hub-Advitiya-Hackathon&theme=radical&hide_border=true" alt="Talent Hub" />
-</a>
-<a href="https://github.com/karanbirsingh7924/researchx">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karanbirsingh7924&repo=researchx&theme=radical&hide_border=true" alt="ResearchX" />
-</a>
-
-<a href="https://github.com/kbir-dev/Finance-Visualizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kbir-dev&repo=Finance-Visualizer&theme=radical&hide_border=true" alt="Finance Visualizer" />
-</a>
-<a href="https://github.com/kbir-dev/Space-Traffic-Prediction-Infosys-Internship-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kbir-dev&repo=Space-Traffic-Prediction-Infosys-Internship-Project&theme=radical&hide_border=true" alt="Space Traffic Prediction" />
-</a>
+**Tools**<br/>
+<img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Jupyter-333333?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Cloudinary-333333?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+<img src="https://img.shields.io/badge/Twilio-333333?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
 
 </div>
 
@@ -79,24 +80,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kbir-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbir-dev&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kbir-dev&theme=radical" alt="GitHub stats" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kbir-dev&theme=radical" alt="Top languages" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=kbir-dev&theme=radical&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kbir-dev&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 
 </div>
 
